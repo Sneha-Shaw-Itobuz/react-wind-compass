@@ -1,6 +1,6 @@
 {
   "name": "react-wind-compass",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Compass component for displaying wind direction",
   "main": "Compass.tsx",
   "scripts": {

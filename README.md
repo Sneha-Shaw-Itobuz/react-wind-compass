@@ -15,19 +15,18 @@ or with yarn
 ```bash
   yarn add react-wind-compass
 ```
+
 <img src="https://github.com/user-attachments/assets/83c647bd-2b5a-4cef-8e12-c2039b62b43c" width="420" height="400" />
-
-
 
 ## Features
 
-- Customizable Direction : Set an initial direction angle to represent the compass's starting orientation.
+- **Customizable Direction** : Set an initial direction angle to represent the compass's starting orientation.
 
-- Snapping Mechanism: Adjust the snapAngle property to snap the compass direction to predefined intervals for a smoother user experience.
+- **Snapping Mechanism** : Adjust the snapAngle property to snap the compass direction to predefined intervals for a smoother user experience.
 
-- Fixed or Dynamic Mode: Use the fixed property to toggle between a static compass display or a dynamic interactive mode.
+- **Fixed or Dynamic Mode** : Use the fixed property to toggle between a static compass display or a dynamic interactive mode.
 
-- Simple Integration: Easily integrate into any React project with minimal configuration.
+- **Simple Integration** : Easily integrate into any React project with minimal configuration.
 
 ## Usage/Examples
 
