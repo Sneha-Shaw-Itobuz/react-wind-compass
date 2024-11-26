@@ -1,10 +1,13 @@
 {
   "name": "react-wind-compass",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Compass component for displaying wind direction",
   "main": "Compass.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/Sneha-Shaw-Itobuz/react-wind-compass.git"
   },
   "keywords": [
     "react-compass",
