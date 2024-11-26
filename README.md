@@ -15,6 +15,9 @@ or with yarn
 ```bash
   yarn add react-wind-compass
 ```
+<img src="https://github.com/user-attachments/assets/83c647bd-2b5a-4cef-8e12-c2039b62b43c" width="420" height="400" />
+
+
 
 ## Features
 
